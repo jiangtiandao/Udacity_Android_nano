@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Work Collection</string>
+    <string name="title">My nanodegree Apps</string>
+    <string name="btn1_w" translatable="false">POPULAR MOVIES</string>
+    <string name="btn2_w" translatable="false">STOCK HAWKS</string>
+    <string name="btn3_w" translatable="false">BUILD IT BIGGER</string>
+    <string name="btn4_w" translatable="false">MAKE YOUR APP MATERIAL</string>
+    <string name="btn5_w" translatable="false">GO UBIQUITOUS</string>
+    <string name="btn6_w" translatable="false">CAPSTONE</string>
+     <string-array name="btn_toast">
+        <item>This button will launch my popular movies app!</item>
+        <item>This button will launch my stock hawk app!</item>
+        <item>This button will launch bigger version of my app.</item>
+        <item>This button will launch material version of my app!</item>
+        <item>This button will launch ubiquitous  version of my app!</item>
+        <item>This button will launch my capstone app!</item>
+         <item>Unknown button will launch nothing!</item>
+     </string-array>
+</resources>
